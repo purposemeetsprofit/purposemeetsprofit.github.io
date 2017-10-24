@@ -9,7 +9,7 @@ const IndexPage = () => (
         <div className="container p-40">
             <div className="row mb0">
                 <div className="col s12 center-align">
-                    <img src="https://www.fownders.co/hubfs/Fownders%20Logos/PMP-logo.svg" alt="Purpose Meets Profit" height={75}/>
+                    <img src="https://www.fownders.co/hubfs/Fownders%20Logos/PMP-logo.svg" alt="Purpose Meets Profit" height={175}/>
                     <h1 className="f-38 white-text text-uppercase">Purpose Meets Profit </h1>
                     <p className="f-18 white-text justify-text">We have all heard it before, follow your passion! That’s cool, but what if your passion doesn’t pay the bills? Well, who says you have to choose between making a difference and making a profit?</p>
                     <p className="f-18 white-text justify-text"> Welcome to the Purpose Meets Profit podcast! Hosted by two millennial entrepreneurs, Logan Cohen and Gerard Adams, who let their purpose drive them while the profit keeps the lights on!</p>
@@ -20,14 +20,17 @@ const IndexPage = () => (
             </div>
             <div className="row mb0 p-20">
                 <div className="col s6 right-align">
-                    {/*<a href="https://itunes.apple.com/us/app/soundcloud/id336353151?mt=8" target="_blank" className="mobileAppsButtons__button mobileAppsButtons__appStore g-appStoreButton g-appStoreButton__appStore sc-ir">*/}
-                    {/*Download on the App Store*/}
-                    {/*</a>*/}
-                    {/*<a className="cta-soundcloud btn-large">Listen On <br/>SoundCloud <i className="fa fa-soundcloud fa-lg white-text right-align" aria-hidden="true"/></a>*/}
-                    {/*<iframe value="Liston On SoundCloud" allowTransparency="true" scrolling="no" frameBorder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fpurposemeetsprofit%2Flets-define-success&color=orange_white&size=48" style={{width: 40, height: 40}} >Liston On</iframe>*/}
+                    {/*<iframe width="100%" height={166} scrolling="no" frameBorder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345515317&color=59d8cd" />*/}
+                    <a href="https://soundcloud.com/purposemeetsprofit/">
+                        <img src="../static/soundcloud-button.png" alt="" height={52}/>
+                    </a>
+
                 </div>
                 <div className="col s6 left-align">
-                    <a href="https://itunes.apple.com/us/podcast/purpose-meets-profit/id1293556525?mt=2" style={{display: 'inline-block', overflow: 'hidden', background: 'url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat', width: 133, height: 34, backgroundSize: 'contain'}} />
+                    <a href="https://itunes.apple.com/us/podcast/purpose-meets-profit/id1293556525?mt=2">
+                        <img src="../static/itunes.png" alt="" height={52}/>
+                    </a>
+
                 </div>
             </div>
         </div>
