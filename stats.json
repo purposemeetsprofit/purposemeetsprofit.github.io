@@ -1,20 +1,24 @@
 {
   "assetsByChunkName": {
+    "component---src-pages-giveaway-js": [
+      "component---src-pages-giveaway-js-c8bbe1079023a520713a.js",
+      "component---src-pages-giveaway-js-c8bbe1079023a520713a.js.map"
+    ],
+    "path---giveaway": [
+      "path---giveaway-a0e39f21c11f6a62c5ab.js",
+      "path---giveaway-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5b738488263e290e6912.js",
-      "component---src-pages-index-js-5b738488263e290e6912.js.map"
+      "component---src-pages-index-js-271f21e48ce55c84e735.js",
+      "component---src-pages-index-js-271f21e48ce55c84e735.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2b363d50640045b699c8.js",
-      "component---src-layouts-index-js-2b363d50640045b699c8.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+      "component---src-layouts-index-js-db6d3b20a61a8fd76597.js",
+      "component---src-layouts-index-js-db6d3b20a61a8fd76597.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -32,14 +36,10 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-814c3250cda4a015aef7.js",
-      "component---src-pages-page-2-js-814c3250cda4a015aef7.js.map"
-    ],
     "app": [
-      "app-c6907a590648fdd958fd.js",
+      "app-7abd3de291c55fa542b6.js",
       "build-js-styles.css",
-      "app-c6907a590648fdd958fd.js.map",
+      "app-7abd3de291c55fa542b6.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
