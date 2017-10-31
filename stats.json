@@ -1,24 +1,28 @@
 {
   "assetsByChunkName": {
     "component---src-pages-giveaway-js": [
-      "component---src-pages-giveaway-js-4616e0c5ac8e70d6b61c.js",
-      "component---src-pages-giveaway-js-4616e0c5ac8e70d6b61c.js.map"
+      "component---src-pages-giveaway-js-0bd701fcb1533f94bf21.js",
+      "component---src-pages-giveaway-js-0bd701fcb1533f94bf21.js.map"
     ],
     "path---giveaway": [
       "path---giveaway-a0e39f21c11f6a62c5ab.js",
       "path---giveaway-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-3dd555b10c3f5684743b.js",
-      "component---src-pages-index-js-3dd555b10c3f5684743b.js.map"
+      "component---src-pages-index-js-bdbb0f4946974a289252.js",
+      "component---src-pages-index-js-bdbb0f4946974a289252.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b20b0a031ac531923bb6.js",
-      "component---src-layouts-index-js-b20b0a031ac531923bb6.js.map"
+      "component---src-layouts-index-js-1898ff465463e4f5c33c.js",
+      "component---src-layouts-index-js-1898ff465463e4f5c33c.js.map"
+    ],
+    "path---giveaway-promo": [
+      "path---giveaway-promo-a0e39f21c11f6a62c5ab.js",
+      "path---giveaway-promo-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -29,17 +33,21 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-b5df97a139f8854220d4.js",
-      "commons-b5df97a139f8854220d4.js.map"
+      "commons-be498e6fd2b2c02c2019.js",
+      "commons-be498e6fd2b2c02c2019.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-giveaway-promo-js": [
+      "component---src-pages-giveaway-promo-js-6c6fd882ed6941c1bbda.js",
+      "component---src-pages-giveaway-promo-js-6c6fd882ed6941c1bbda.js.map"
+    ],
     "app": [
-      "app-7abd3de291c55fa542b6.js",
+      "app-d2370f5667a3de6f6a46.js",
       "build-js-styles.css",
-      "app-7abd3de291c55fa542b6.js.map",
+      "app-d2370f5667a3de6f6a46.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
