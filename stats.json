@@ -1,24 +1,24 @@
 {
   "assetsByChunkName": {
     "component---src-pages-giveaway-js": [
-      "component---src-pages-giveaway-js-86b31ec7141493dc7127.js",
-      "component---src-pages-giveaway-js-86b31ec7141493dc7127.js.map"
+      "component---src-pages-giveaway-js-a2f727d1bd3fc018b7e7.js",
+      "component---src-pages-giveaway-js-a2f727d1bd3fc018b7e7.js.map"
     ],
     "path---giveaway": [
       "path---giveaway-a0e39f21c11f6a62c5ab.js",
       "path---giveaway-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9dcb1f2c41e360e28dbd.js",
-      "component---src-pages-index-js-9dcb1f2c41e360e28dbd.js.map"
+      "component---src-pages-index-js-5b8f14294fc9027fcbec.js",
+      "component---src-pages-index-js-5b8f14294fc9027fcbec.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1d11158c64c119e6aa7c.js",
-      "component---src-layouts-index-js-1d11158c64c119e6aa7c.js.map"
+      "component---src-layouts-index-js-25be5281cfce7670b325.js",
+      "component---src-layouts-index-js-25be5281cfce7670b325.js.map"
     ],
     "path---giveaway-promo": [
       "path---giveaway-promo-a0e39f21c11f6a62c5ab.js",
@@ -41,8 +41,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-giveaway-promo-js": [
-      "component---src-pages-giveaway-promo-js-6b7ef3250ddfb443ea3c.js",
-      "component---src-pages-giveaway-promo-js-6b7ef3250ddfb443ea3c.js.map"
+      "component---src-pages-giveaway-promo-js-03efde57f6a5e86dac38.js",
+      "component---src-pages-giveaway-promo-js-03efde57f6a5e86dac38.js.map"
     ],
     "app": [
       "app-d2370f5667a3de6f6a46.js",
